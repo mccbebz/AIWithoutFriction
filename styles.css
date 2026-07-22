@@ -97,82 +97,23 @@
   line-height:1.45;
   color:#7a8190;
 }
-.newsletter-form{
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  gap:12px;
+.newsletter-hubspot-form{
+  max-width:520px;
+  min-height:94px;
   margin:0 auto;
 }
-.newsletter-input-wrap{
-  position:relative;
-  width:min(330px,58vw);
-}
-.newsletter-form input{
-  height:34px;
+.newsletter-hubspot-form .hs-form-frame{
   width:100%;
-  margin:0;
-  padding:8px 42px 8px 14px;
-  border:1px solid #eceff3;
-  border-radius:9px;
-  background:#fff;
-  color:#3d4658;
-  font-size:.82rem;
-  box-shadow:0 1px 4px rgba(20,30,55,.04);
+  min-height:94px;
 }
-.newsletter-form input::placeholder{color:#7d8493;}
-.newsletter-icon{
-  position:absolute;
-  right:15px;
-  top:50%;
-  transform:translateY(-50%);
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-  width:20px;
-  height:20px;
-  border-radius:5px;
-  background:#d84d43;
-  color:#fff;
-  font-size:14px;
-  line-height:1;
-  letter-spacing:-1px;
-  font-weight:800;
-}
-.newsletter-form button{
-  width:auto;
-  height:36px;
-  margin:0;
-  padding:0 20px;
-  border-radius:9px;
-  background:#2f3e63;
-  color:#fff;
-  text-transform:none;
-  letter-spacing:0;
-  font-size:.82rem;
-  font-weight:800;
-}
-.footer-or{
-  margin:42px 0 13px;
-  color:#7c8492;
-  font-size:1rem;
-}
-.strategy-link{
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-  min-height:39px;
-  padding:9px 21px;
-  border:1.5px solid #2f3e63;
-  border-radius:9px;
-  color:#2f3e63;
-  background:#fff;
-  text-decoration:none;
-  font-size:.88rem;
-  font-weight:800;
+.newsletter-hubspot-form iframe{
+  width:100% !important;
+  min-height:120px !important;
+  height:120px !important;
+  border:0 !important;
 }
 .footer-bottom{
-  margin-top:92px;
+  margin-top:54px;
   font-size:.78rem;
   color:#737b89;
 }
@@ -192,9 +133,6 @@
 }
 @media(max-width:640px){
   .site-footer{padding:56px 0 28px;}
-  .newsletter-form{flex-direction:column;gap:10px;}
-  .newsletter-input-wrap{width:100%;max-width:360px;}
-  .newsletter-form button{width:100%;max-width:360px;}
-  .footer-or{margin-top:34px;}
-  .footer-bottom{margin-top:70px;}
+  .newsletter-hubspot-form{max-width:360px;}
+  .footer-bottom{margin-top:42px;}
 }
