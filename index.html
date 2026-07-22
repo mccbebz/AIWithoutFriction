@@ -62,9 +62,12 @@
         <h2>Let's Grow With Clarity</h2>
         <p class="footer-intro">Join our newsletter for strategic insights, visibility tips, and quietly powerful ways to grow your authority.</p>
 
-        <div class="newsletter-hubspot-form">
-          <div class="hs-form-frame" data-region="na2" data-form-id="b4c80249-4eb6-443d-b21b-31841299dc9f" data-portal-id="246778021"></div>
-        </div>
+        <form class="newsletter-form" id="newsletterForm">
+          <label class="sr-only" for="newsletter-email">Email address</label>
+          <input id="newsletter-email" type="email" name="email" placeholder="Email*" required />
+          <button type="submit">Submit</button>
+        </form>
+        <p class="newsletter-message" id="newsletterMessage" aria-live="polite"></p>
 
         <div class="footer-bottom">
           <p>Philadelphia, PA | Baton Rouge, LA</p>
