@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Identify hidden friction magnifier icon</title>
+  <desc id="desc">Magnifying glass with connected friction nodes.</desc>
+  <!-- Recreated from provided AI Without Friction mockup. Stroke color: #092A5E. -->
+  <circle cx="48" cy="48" r="42" fill="#EEF6FF"/>
+  <circle cx="48" cy="48" r="41" fill="none" stroke="#092A5E" stroke-width="1.8" opacity=".35"/>
+  <circle cx="42" cy="42" r="18" fill="none" stroke="#092A5E" stroke-width="3"/>
+  <path d="M55.5 55.5 72 72" fill="none" stroke="#092A5E" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="35" cy="36" r="4" fill="none" stroke="#092A5E" stroke-width="2.5"/>
+  <circle cx="48" cy="35" r="4" fill="none" stroke="#092A5E" stroke-width="2.5"/>
+  <circle cx="39" cy="49" r="4" fill="none" stroke="#092A5E" stroke-width="2.5"/>
+  <circle cx="51" cy="49" r="4" fill="none" stroke="#092A5E" stroke-width="2.5"/>
+  <path d="M39 37.4 44.1 35.6M38 46l-2-6M43 49h4" fill="none" stroke="#092A5E" stroke-width="2" stroke-linecap="round"/>
+</svg>

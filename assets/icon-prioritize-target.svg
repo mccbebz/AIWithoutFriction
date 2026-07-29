@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Prioritize opportunities target icon</title>
+  <desc id="desc">Target rings with an arrow hitting the center.</desc>
+  <!-- Recreated from provided AI Without Friction mockup. Stroke color: #092A5E. -->
+  <circle cx="48" cy="48" r="42" fill="#EEF6FF"/>
+  <circle cx="48" cy="48" r="41" fill="none" stroke="#092A5E" stroke-width="1.8" opacity=".35"/>
+  <circle cx="45" cy="51" r="22" fill="none" stroke="#092A5E" stroke-width="3"/>
+  <circle cx="45" cy="51" r="13" fill="none" stroke="#092A5E" stroke-width="3"/>
+  <circle cx="45" cy="51" r="4.5" fill="#092A5E"/>
+  <path d="M45 51 70 26" fill="none" stroke="#092A5E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M67 20v12h12" fill="none" stroke="#092A5E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 26 80 16" fill="none" stroke="#092A5E" stroke-width="3" stroke-linecap="round"/>
+</svg>
