@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
   <title id="title">Prioritize opportunities target icon</title>
-  <desc id="desc">Clean target icon with a blue arrow hitting the center.</desc>
+  <desc id="desc">Clean target icon with a blue arrow pointing into the center.</desc>
   <defs>
     <radialGradient id="bg" cx="35%" cy="28%" r="72%">
       <stop offset="0%" stop-color="#FFFFFF"/>
@@ -18,7 +18,8 @@
   <circle cx="45" cy="51" r="23" fill="#FFFFFF" stroke="#071F4F" stroke-width="3.2"/>
   <circle cx="45" cy="51" r="14" fill="none" stroke="#0B5EA8" stroke-width="3"/>
   <circle cx="45" cy="51" r="5" fill="#071F4F"/>
-  <path d="M45 51 70 26" fill="none" stroke="#0B5EA8" stroke-width="4" stroke-linecap="round"/>
-  <path d="M68.2 20.2v11.5h11.5" fill="none" stroke="#071F4F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M70 26 79.5 16.5" fill="none" stroke="#071F4F" stroke-width="2.8" stroke-linecap="round"/>
+
+  <path d="M73 23 48.8 47.2" fill="none" stroke="#0B5EA8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M48.8 47.2 49.6 39.2" fill="none" stroke="#0B5EA8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48.8 47.2 56.8 46.4" fill="none" stroke="#0B5EA8" stroke-width="3" stroke-linecap="round"/>
 </svg>
