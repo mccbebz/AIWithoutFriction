@@ -1,30 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
   <title id="title">Prioritize opportunities target icon</title>
-  <desc id="desc">Target rings with a gold arrow hitting the center.</desc>
+  <desc id="desc">Clean target icon with a blue arrow hitting the center.</desc>
   <defs>
-    <radialGradient id="bg" cx="34%" cy="26%" r="72%">
+    <radialGradient id="bg" cx="35%" cy="28%" r="72%">
       <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="62%" stop-color="#F4FAFE"/>
+      <stop offset="62%" stop-color="#F7FBFE"/>
       <stop offset="100%" stop-color="#EAF4FB"/>
     </radialGradient>
-    <linearGradient id="goldStroke" x1="20" y1="18" x2="78" y2="80" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#F0C56A"/>
-      <stop offset="100%" stop-color="#D9A13A"/>
-    </linearGradient>
     <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#071F4F" flood-opacity="0.12"/>
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#071F4F" flood-opacity="0.10"/>
     </filter>
   </defs>
 
   <circle cx="48" cy="48" r="40" fill="url(#bg)" filter="url(#softShadow)"/>
-  <circle cx="48" cy="48" r="39" fill="none" stroke="#9DB7D4" stroke-width="1.6"/>
-  <path d="M20 72C31 82 47 86 62 80" fill="none" stroke="url(#goldStroke)" stroke-width="2.4" stroke-linecap="round" opacity=".9"/>
+  <circle cx="48" cy="48" r="39" fill="none" stroke="#B7CBE0" stroke-width="1.4"/>
 
-  <circle cx="45" cy="51" r="23" fill="none" stroke="#071F4F" stroke-width="3"/>
+  <circle cx="45" cy="51" r="23" fill="#FFFFFF" stroke="#071F4F" stroke-width="3.2"/>
   <circle cx="45" cy="51" r="14" fill="none" stroke="#0B5EA8" stroke-width="3"/>
   <circle cx="45" cy="51" r="5" fill="#071F4F"/>
-  <path d="M45 51 70.5 25.5" fill="none" stroke="url(#goldStroke)" stroke-width="4.2" stroke-linecap="round"/>
-  <path d="M68.2 18.2v12.5h12.5" fill="none" stroke="#D9A13A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M70.5 25.5 81.7 14.3" fill="none" stroke="#071F4F" stroke-width="2.6" stroke-linecap="round"/>
-  <path d="M28 31c4-3.2 9-5 14.3-5" fill="none" stroke="#9DB7D4" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M45 51 70 26" fill="none" stroke="#0B5EA8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M68.2 20.2v11.5h11.5" fill="none" stroke="#071F4F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 26 79.5 16.5" fill="none" stroke="#071F4F" stroke-width="2.8" stroke-linecap="round"/>
 </svg>
